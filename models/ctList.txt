@@ -1,0 +1,8 @@
+Bangla|Abir Mohammad
+English|Sabir Hasan
+Genaler Mathematics|Alam Hoque
+Higher Mathematics|Hasibul Hasan
+Physics|Abdul kasem
+Chemistry|Mithun Sarker
+Biology|Azran Hossain
+ICT|Nowrin Islam
